@@ -13,7 +13,7 @@ const map = new Map([["AD", "Andorra"], ["AE", "United Arab Emirates"], ["AF", "
 ["JO", "Jordan"], ["JE", "Japan"], ["KE", "Kenya"], ["KG", "Kyrgyzstan"], ["KH", "Combodia"], ["KI", "Kiribati"], ["KM", "Comoros"], ["KN", "Saint Kitts and Nevis"], ["KP", "Korea"], ["KR", "South Korea"], ["KW", "Kuwait"], ["KY", "Caiman Islands"],
 ["KZ", "Kazakhstan"], ["LA", "Lao People's Democratic Republic"], ["LB", "Lebanon"], ["LC", "Saint Lucia"], ["LI", "Liechtenstein"], ["LK", "Sri Lanka"], ["LR", "Liberia"], ["LS", "Lesotho"],
 ["LT", "Lithuania"], ["LU", "Luxembourg"], ["LV", "Latvia"], ["LY", "Libya"], ["MA", "Morocco"], ["MC", "Monaco"], ["MD", "Republic of Moldova"], ["ME", "Montenegro"],["MF", "Saint Martin"],
-["MG", "Madagascar"], ["MH", "Marshal Islands"], ["NK", "North Macedonia"], ["ML", "Mali"], ["MM", "Myanmar"], ["MN", "Mongolia"], ["MO", "Macao"],["MP", "Northern Mariana Islands"],
+["MG", "Madagascar"], ["MH", "Marshal Islands"], ["MK", "North Macedonia"], ["ML", "Mali"], ["MM", "Myanmar"], ["MN", "Mongolia"], ["MO", "Macao"],["MP", "Northern Mariana Islands"],
 ["MQ", "Martinique"], ["MR", "Mauritania"], ["MS", "Montserrat"], ["Malta"], ["MU", "Mauritius"], ["MV", "Maldives"], ["MW", "Malawi"], ["MX", "Mexico"], ["MY", "Malaysia"], ["MZ", "Mozambique"], ["NA", "Namibia"], ["NC", "New Caledonia"],
     ["NE", "Niger"], ["NF", "Norfolk Island"], ["NG", "Nigeria"], ["NI", "Nicaragua"],["NL", "Netherlands"],["NO", "Norway"], ["NP", "Nepal"], ["NR", "Nauru"], ["NU", "Niue"], ["NZ", "New Zealand"],
 ["OM", "Oman"], ["PA", "Panama"], ["PE", "Peru"], ["PF", "French Polynesia"], ["PG", "Papua New Guinea"], ["PH", "Philippines"], ["PK", "Pakistan"], ["PL", "Poland"], ["PN", "Pitcairn"],
