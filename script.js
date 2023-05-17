@@ -49,9 +49,10 @@ function handleWin() {
 }
 
 function evaluate() {
-    const tag = input.value;
+    const tag = input.value.trim().toLowerCase();
     let image = document.querySelector("img")
-    if (tag === image.dataset.tag) {
+    let countryName = image.dataset.tag.toLowerCase();
+    if (tag === countryName) {
         feedback.innerText = "Yay!"
         score++;
         points.innerText = `${score}/20`;
